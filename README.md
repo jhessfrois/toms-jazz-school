@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo OneBitCode" src="https://i.imgur.com/OdRYs9Y.png" width="200px" />
-</p>
+</p> 
 
 <p align="center">
 Aplicação desenvolvida no minicurso Start na Programação do OneBitCode.
