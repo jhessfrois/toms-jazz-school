@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo OneBitCode" src="https://i.imgur.com/OdRYs9Y.png" width="200px" />
-</p> 
+</p>
 
 <p align="center">
 Aplicação desenvolvida no minicurso Start na Programação do OneBitCode.
@@ -48,3 +48,4 @@ Nesse projeto foi desenvolvido uma página fictícia de uma escola de música to
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
+
